@@ -71,6 +71,8 @@ Here are some ideas to get you started:
   <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="jwt logo"  />
   <img width="12" />
   <img src="https://www.swi-prolog.org/icons/swipl.png" height="40" alt="swi prolog logo"  />
+<href="https://www.sparxsystems.com/products/ea/" target="_blank" rel="noreferrer">
+    <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" width="36" height="36" alt="Enterprise Architect" />
 </div>
 
 ###
