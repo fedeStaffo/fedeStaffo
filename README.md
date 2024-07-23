@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">🎯 I have a degree in Computer and Automation Engineering from UNIVPM</p>
-<p align="left">🌱 I’m currently learning AI, Data Science, Big Data Analytics and ML</p>
+<p align="left">🌱 I’m currently learning AI, Data Science, Big Data Analytics and Neural Networks</p>
 
 ###
 
