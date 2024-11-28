@@ -77,4 +77,6 @@ Here are some ideas to get you started:
   <img src="https://media.codeweavers.com/pub/crossover/website/htmlimages/enterprise-architect-icon_1_1.png" height="60rem" title="Enterprise Architect" />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/26833451?s=280&v=4" height="60rem" title="Ultralytics" />
+  <img width="12" />
+  <img src="https://icon-icons.com/icons2/2699/PNG/512/botpressio_logo_icon_169469.png" height="60rem" title="Botpress" />
 </div>
