@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="60rem" title="NetworkX">
   <img src="https://avatars.githubusercontent.com/u/26833451?s=280&v=4" height="60rem" title="Ultralytics">  
   <img src="https://github.com/user-attachments/assets/700a1ff5-7843-464f-a78e-0dd01af74121" height="60rem" title="Rasa">
-  <img src="https://icon-icons.com/icons2/2699/PNG/512/botpressio_logo_icon_169469.png" height="60rem" title="Botpress"> 
+  <img src="https://github.com/user-attachments/assets/070a8fa1-15cf-42b4-9dd7-eca07ab76d46" height="60rem" title="Botpress"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60rem" title="Spring">
 </div>
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 #### Web services:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60rem" title="Amazon-Web-Services">
+  <img src="https://github.com/user-attachments/assets/73b507fd-d58f-400d-8482-75cb1a831fc7" height="60rem" title="Amazon-Web-Services">
 </div>
 
 #### Databases:
