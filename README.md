@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60rem" title="Typescript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60rem" title="Javascript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60rem" title="Dart">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prolog_icon_130230.png" height="60rem" title="SwiProlog">
+  <img src="https://github.com/user-attachments/assets/75569472-a536-4c2f-ba8d-e0ccf74d761d" height="60rem" title="SwiProlog">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="60rem" title="Latex">
 </div>
 
