@@ -80,4 +80,6 @@ Here are some ideas to get you started:
   <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60rem" title="PostgreSQL">
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="60rem" title="MongoDB">
 </div>
+
