@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="left">🌱 I’m currently learning AI, Data Science, Big Data Analytics and Neural Networks</p>
 
 ###  
-
+<!--
 <h2 align="left">I Have worked with:</h2>  
 
 ###  
@@ -82,4 +82,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="60rem" title="MongoDB">
 </div>
-
+-->
